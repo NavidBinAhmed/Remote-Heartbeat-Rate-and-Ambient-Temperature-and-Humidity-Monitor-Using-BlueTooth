@@ -1,0 +1,1 @@
+This code can be applied to monitor remotely of heartbeat and ambient temperaure and humidity data via HC05 Bluetooth module. 
